@@ -1,0 +1,1 @@
+g++ test.cpp -o aa -lpython2.6
